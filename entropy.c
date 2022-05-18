@@ -1,6 +1,6 @@
 /**
  * File from http://rosettacode.org/wiki/Entropy#C
- * Licensed under GNU documentation..?
+ * cc entropy.c -o entro -lm
  **/
 #include <stdio.h>
 #include <stdlib.h>
